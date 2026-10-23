@@ -1,0 +1,30 @@
+date,amount,category,Description
+2026-01-03,250,Food,Groceries
+2026-01-05,80,Transport,Bus fare
+2026-01-08,120,Entertainment,Movie ticket
+2026-01-12,900,Utilities,Electricity bill
+2026-01-15,180,Food,Lunch with friends
+2026-01-19,150,Transport,Auto fare
+2026-02-02,320,Food,Weekly groceries
+2026-02-04,220,Shopping,Household items
+2026-02-09,100,Transport,Bus and auto fare
+2026-02-13,450,Entertainment,Event ticket
+2026-02-18,850,Utilities,Internet and electricity
+2026-03-01,280,Food,Groceries
+2026-03-06,130,Transport,Bus fare
+2026-03-10,600,Education,Course materials
+2026-03-14,200,Entertainment,Cinema snacks and ticket
+2026-03-21,350,Shopping,Clothing
+2026-04-03,300,Food,Groceries
+2026-04-07,170,Transport,Auto fare
+2026-04-11,950,Utilities,Electricity bill
+2026-04-16,500,Healthcare,Doctor visit
+2026-05-02,400,Food,Groceries and snacks
+2026-05-05,160,Transport,Bus fare
+2026-05-12,700,Education,Course fee
+2026-05-20,260,Entertainment,Family outing
+2026-06-01,330,Food,Groceries
+2026-06-04,140,Transport,Auto fare
+2026-06-09,1100,Utilities,Electricity and internet
+2026-06-15,240,Shopping,Personal items
+2026-06-20,180,Other,Miscellaneous expense
